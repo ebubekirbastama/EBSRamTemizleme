@@ -75,3 +75,9 @@ For any inquiries or issues, feel free to reach out:
 - **Twitter**: [@ebubekirstt](https://twitter.com/ebubekirstt)  
 
 Enjoy efficient memory management with **EBSRamTemizleme**! 🎉
+
+### Download the compiled version of the program
+You can download the compiled version of the program from the link below:
+
+[Download Ram Clear Program](https://github.com/ebubekirbastama/EBSRamTemizleme/raw/refs/heads/main/Ram%20Clear%20Program%C4%B1.zip)
+
